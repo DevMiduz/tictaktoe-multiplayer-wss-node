@@ -1,2 +1,2 @@
 # tictaktoe-multiplayer-wss-node
-A tiktaktoe websocket server create with nodejs.
+A tiktaktoe websocket server created with nodejs.
